@@ -1,2 +1,0 @@
-postfix/mailname string your.hostname.com
-postfix/main_mailer_type string 'Internet Site'
